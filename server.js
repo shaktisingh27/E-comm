@@ -9,6 +9,7 @@ const authRoutes = require("./routes/authRoutes");
 const categoryRoutes = require("./routes/categoryRoutes");
 const productRoutes = require("./routes/productRoutes");
 const path = require("path");
+
 //configure env
 dotenv.config();
 
